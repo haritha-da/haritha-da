@@ -5,7 +5,7 @@ sources:
     database: powerflow #name of database
     schema: public
     tables:   #name all of the tables you would reference in the models
-      - name: registrations_raw
+      - name: registrations
       - name: appsflyer_raw
       - name: google_ads
       - name: transactions
