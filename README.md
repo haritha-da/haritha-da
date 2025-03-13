@@ -7,6 +7,7 @@ I'm a Passionate Data Analyst eager to explore datasets, uncover insights, and d
 📌 About Me
 
 🎓 Currently Learning: SQL, Tableau, Google Sheets, Python, Databricks, dbt, Snowflake, Looker Studio, and BigQuery.
+
 🎯 My Goals: Build strong data analysis skills, create compelling visualizations, and gain industry-ready expertise.
 
 🔍 Current Projects
